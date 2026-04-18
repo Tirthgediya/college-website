@@ -4,7 +4,7 @@ A responsive and modern college website built using HTML, CSS, and JavaScript. T
 
 🌐 Live Demo
 
-🔗 https://tirthgediya.github.io/college-website/
+🔗 https://Tirthgediya.github.io/college-website/
 
 📌 Features
 🏫 Home page with introduction banner
@@ -33,7 +33,7 @@ college-website/
 To run this project locally:
 
 Clone the repository
-git clone https://github.com/tirthgediya/college-website.git
+git clone https://github.com/Tirthgediya/college-website.git
 Navigate to the project folder
 cd college-website
 Open index.html in your browser
@@ -54,7 +54,7 @@ Mobile devices (can be further improved)
 
 Tirth Gediya
 
-GitHub: https://github.com/tirthgediya
+GitHub: https://github.com/Tirthgediya
 📄 License
 
 This project is for educational purposes only.
