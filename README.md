@@ -54,7 +54,7 @@ Mobile devices (can be further improved)
 
 Tirth Gediya
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/tirthgediya
 📄 License
 
 This project is for educational purposes only.
