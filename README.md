@@ -33,7 +33,7 @@ college-website/
 To run this project locally:
 
 Clone the repository
-git clone https://github.com/your-username/college-website.git
+git clone https://github.com/tirthgediya/college-website.git
 Navigate to the project folder
 cd college-website
 Open index.html in your browser
